@@ -210,7 +210,7 @@ const App = () => {
     },
     {
       //@ts-ignore
-      type: 'unknown',
+      type: 'unknown', //未知类型
       source: 'user',
       text: 'user message user message user message user message user message user message user message user message user message user message ',
       avatar: mockAvatar,
